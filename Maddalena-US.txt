@@ -1,0 +1,8 @@
+1.	As an aged user, I want to be advised on what I really need basing on what I will use the device for, so that I don’t have to look through device specifications I don’t understand.
+2.	As an advanced user, I want to specify exactly the components I need, so that I don’t have to search the web to find a device with those characteristics.
+3.	As a user, I want to have the possibility to come back in the selection process, so that I can change the answer to a specific question if I change idea.
+4.	As a user, I want to know what warranty the device I have been advised has, so that I know which incidents with the device are covered.
+5.	As a user, I want to skip a question in the selection process, so that I don’t have to respond to questions I am not sure about.
+6.	As a user, I want to specify that the device I want has to have specific functionalities such as backlit keyboard, so that my device is exactly how I want it.
+7.	As a user, I want to look at the history of the devices I have been advised, so that I can find them again if I don’t remember about any of them.
+8.	As a user, I want to reset my password, so that I can set a new one if I forgot the old one.

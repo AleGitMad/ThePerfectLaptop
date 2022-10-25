@@ -1,0 +1,5 @@
+1.	The system shall provide the possibility to go back and forth in the questionnaire.
+2.	The system shall make the user select what level of knowledge he has between three different levels.
+3.	The system shall show more details about the question when the user selects the “info” icon in the selection process.
+4.	If the returned device doesn’t satisfy the user, the system shall show other devices, sorted by an affinity level calculated on the answers the user provided to the questions asked in the selection process.
+5.	The system shall notify the user of private discounts offered by the manufacturer.
